@@ -1,0 +1,17 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "A backend service template for Go and MongoDB",
+        "title": "Go Mongo Starter API",
+        "contact": {
+            "name": "Richard Amare"
+        },
+        "license": {
+            "name": "MIT"
+        },
+        "version": "0.1"
+    },
+    "host": "localhost:8080",
+    "basePath": "/",
+    "paths": {}
+}

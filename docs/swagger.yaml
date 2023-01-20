@@ -1,0 +1,12 @@
+basePath: /
+host: localhost:8080
+info:
+  contact:
+    name: Richard Amare
+  description: A backend service template for Go and MongoDB
+  license:
+    name: MIT
+  title: Go Mongo Starter API
+  version: "0.1"
+paths: {}
+swagger: "2.0"
